@@ -1,0 +1,14 @@
+
+Hello, 
+
+{subject}
+
+Nom de la boutique : {from_website}
+
+Nom du contact : {firstname} {lastname}
+
+E-mail du contact : {from_email}
+
+Url du flux : {feed_url}
+
+{from_website}

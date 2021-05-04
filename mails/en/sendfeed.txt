@@ -1,0 +1,14 @@
+
+Hi, 
+
+{subject}
+
+Shop name : {from_website}
+
+Contact name : {firstname} {lastname}
+
+Contact email : {from_email}
+
+Feed url : {feed_url}
+
+{from_website}
